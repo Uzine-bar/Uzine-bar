@@ -11,7 +11,9 @@
 * Ch'ti ambrée (FR)
 * Ste Colombe dorée (BZH)
 * O’Hara’s stout (IRL)
-Local bottled beers
+* Local bottled beers
+
+-> free wifi / plugs / usb plugs
 
 https://uzine.bar/
 
