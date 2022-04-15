@@ -1,7 +1,7 @@
 # Uzine bar (in Rennes) beer list at the moment
 
 * Uzine pils (FR)
-* Louarn IPA (Rennes/BZH)
+* Sauvage pale ale (Rennes/BZH)
 * Charles Quint (BEL)
 * Blanche du Bouffay (BZH)
 * Cadette tropical blast (FR)
