@@ -2,15 +2,16 @@
 
 * Uzine pils (FR)
 * Sauvage Tutti va bene (Rennes/BZH)
-* Charles Quint (BEL)
+* Tripple du Bouffay (BZH)
 * Blanche du Bouffay (BZH)
 * Cadette tropical blast (FR)
 * Punk IPA (SCOT)
-* Bacchus framboise (BEL)
+* Slash red (FR)
 * Duchesse Anne hops (BZH)
-* Ch'ti ambrée (FR)
+* La mordue cider (BZH)
 * Ste Colombe dorée (BZH)
 * Silly session IPA (BEL)
+* O'haras stout (IRL)
 * Local bottled beers
 
 -> free wifi / plugs / usb plugs
