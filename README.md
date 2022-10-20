@@ -1,18 +1,17 @@
 # Uzine bar (in Rennes) beer list at the moment
 
 * Uzine pils (FR)
-* Sauvage (Rennes/BZH)
-* Tripple du Bouffay (BZH)
+* Triple du Bouffay (BZH)
+* Ambrée du Bouffay (BZH)
 * Blanche du Bouffay (BZH)
 * Cadette tropical blast (FR)
 * Punk IPA (SCOT)
-* Slash red (FR)
-* Duchesse Anne hops (BZH)
-* La mordue cider (BZH)
+* Slash Red (FR)
 * Ste Colombe dorée (BZH)
-* Louarn pale ale galaxy (Rennes/BZH)
-* O'haras stout (IRL)
-* Local bottled beers
+* Sauvage (BZH)
+* Duchesse Anne triple (BZH)
+* Louarn IPA (BZH)
+* Local bottled beers + Brooklyn Saur & 0%, ...
 
 -> free wifi / plugs / usb plugs
 
