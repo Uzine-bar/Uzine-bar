@@ -10,7 +10,7 @@
 * Ste Colombe dorée (BZH)
 * Sauvage (BZH)
 * Duchesse Anne triple (BZH)
-* Louarn IPA (BZH)
+* 2B back to Berlin (BZH)
 * Local bottled beers + Brooklyn Saur & 0%, ...
 
 -> free wifi / plugs / usb plugs
