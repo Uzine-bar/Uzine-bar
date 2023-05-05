@@ -8,9 +8,9 @@
 * Punk IPA (SCOT)
 * Slash Red (FR)
 * Ste Colombe dorée (BZH)
-* Sauvage Tutti va bene (BZH)
+* Sauvage ale (BZH)
 * Duchesse Anne triple (BZH)
-* 3B back to Berlin (BZH)
+* 3B Pumkin ale (BZH)
 * Local bottled beers + Brooklyn Saur & 0%, ...
 
 -> free wifi / plugs / usb plugs
