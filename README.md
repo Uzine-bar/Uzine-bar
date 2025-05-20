@@ -2,15 +2,15 @@
 
 * Uzine pils (FR)
 * Choqpe session IPA (BZH)
-* Louarn NEIPA (BZH)
-* Blanche du Bouffay (BZH)
 * Louarn Double IPA (BZH)
 * Louarn IPA (BZH)
+* Louarn NEIPA (BZH)
+* Louarn Pale Ale (BZH)
+* Louarn hoppy wheat (BZH)
+* O'hara's stout (IRL)
 * Slash Red (FR)
 * Ste Colombe dorée (BZH)
-* Laourn Pale Ale (BZH)
-* Duchesse Anne Hopq (BZH)
-* Louarn hoppy wheat (BZH)
+* Duchesse Anne Hops (BZH)
 * Bouteilles: Brooklyn 0%, Dremwell 0%, ...
 
 -> free wifi / plugs / usb plugs
