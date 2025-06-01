@@ -1,12 +1,13 @@
 # Uzine bar (in Rennes): 18 beers on tap !
 
 * Uzine pils (FR)
-* Choqpe session IPA (BZH)
+* Debauche triple bio (BZH)
 * Louarn Double IPA (BZH)
 * Louarn IPA (BZH)
 * Louarn NEIPA (BZH)
 * Louarn Pale Ale (BZH)
 * Louarn hoppy wheat (BZH)
+* Bouffay blanche (BZH)
 * O'hara's stout (IRL)
 * Slash Red (FR)
 * Ste Colombe dorée (BZH)
