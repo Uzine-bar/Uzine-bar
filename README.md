@@ -1,4 +1,4 @@
-# Uzine bar (in Rennes) beer list
+# Uzine bar (in Rennes): 18 beers on tap !
 
 * Uzine pils (FR)
 * Choqpe session IPA (BZH)
@@ -12,6 +12,18 @@
 * Ste Colombe dorée (BZH)
 * Duchesse Anne Hops (BZH)
 * Bouteilles: Brooklyn 0%, Dremwell 0%, ...
+
+## Wednesday TTOs !
+Tap take overs by local craft brewers
+
+* 11/06/25 TTO by [Choque](https://www.choquemicrobrasserie.fr/).
+  * Echo (sour IPA)
+  * Houle (Gose kombu sichuan)
+  * Coup double (belgian dubbel)
+  * Cassis surprise (blanche cassis)
+  * Fracas (west coast ipa)  
+
+## More
 
 -> free wifi / plugs / usb plugs
 
