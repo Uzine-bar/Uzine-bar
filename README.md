@@ -17,6 +17,8 @@
 ## Wednesday TTOs !
 Tap take overs by local craft brewers
 
+<img src="TTO_choque.png" alt="drawing" width="300"/>
+
 * 11/06/25 TTO by [Choque](https://www.choquemicrobrasserie.fr/).
   * Echo (sour IPA)
   * Houle (Gose kombu sichuan)
