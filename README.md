@@ -1,4 +1,4 @@
-# Uzine bar (in Rennes): 18 beers on tap !
+# Uzine bar (in Rennes): 18 beers on tap (starting 12/06) !
 
 * Uzine pils (FR)
 * Debauche triple bio (BZH)
