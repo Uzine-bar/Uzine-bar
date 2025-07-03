@@ -12,6 +12,10 @@
 * Slash Red (FR)
 * Ste Colombe dorée (BZH)
 * Duchesse Anne Hops (BZH)
+
+* Sauvage Kolsh
+* Sauvage sour
+* cidre pression
 * Bouteilles: Brooklyn 0%, Dremwell 0%, ...
 
 ## Wednesday TTOs !
