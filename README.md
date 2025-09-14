@@ -6,21 +6,27 @@
 * Louarn NEIPA (BZH)
 * Louarn session IPA (BZH)
 * Louarn hoppy wheat (BZH)
+* Louarn pale ale (BZH)
 * Bouffay ambrée (BZH)
 * O'hara's stout (IRL)
 * Slash Red (FR)
 * Ste Colombe dorée (BZH)
 * Duchesse Anne Hops (BZH)
-
-* Choque blanche cassis (BZH)
-* Choque west coast ipa (BZH)
-* Sauvage Kolsh (BZH)
-* Sauvage sour (BZH)
-* cidre pression
+* Lupulus triple (BEL)
+* cidre pression (BZH)
 * Bouteilles: Brooklyn 0%, Dremwell 0%, ...
 
 ## Wednesday TTOs !
 Tap take overs by local craft brewers
+
+<img src="TTO_fusion.png" alt="drawing" width="300"/>
+
+* 24/09/25 TTO by [Fusion](https://www.instagram.com/fusionbrasserie_/?hl=en).
+  * NZ Cold IPA
+  * Australian NEIPA
+  * Sour Pêche/Mûre/Myrtille
+  * Sour Gingembre/Clémentine/Vanille
+  * Blanche IPA
 
 <img src="TTO_choque.png" alt="drawing" width="300"/>
 
