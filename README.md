@@ -19,6 +19,17 @@
 ## Wednesday TTOs !
 Tap take overs by local craft brewers
 
+<img src="TTO_nautica.png" alt="drawing" width="300"/>
+
+* 15/10/25 TTO by [Nautica](https://www.instagram.com/p/DPgfNv8DLKT/).
+  * Sloop: Pale Ale (4.8%)
+  * Goelette: Double NEIPA (7%)
+  * Lougre: Witbier Citronnelle (4.5%)
+  * Plongée: Fruitée Gose Citron Mangue Poivre Blanc (5%)
+  * Belgian: triple (8%)
+
+
+
 <img src="TTO_fusion.png" alt="drawing" width="300"/>
 
 * 24/09/25 TTO by [Fusion](https://www.instagram.com/fusionbrasserie_/?hl=en).
@@ -27,6 +38,8 @@ Tap take overs by local craft brewers
   * Sour Pêche/Mûre/Myrtille
   * Sour Gingembre/Clémentine/Vanille
   * Blanche IPA
+
+
 
 <img src="TTO_choque.png" alt="drawing" width="300"/>
 
