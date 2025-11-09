@@ -8,16 +8,28 @@
 * Louarn hoppy wheat (BZH)
 * Louarn pale ale (BZH)
 * Bouffay ambrée (BZH)
-* O'hara's stout (IRL)
+* Nautica triple (BZH)
 * Slash Red (FR)
 * Ste Colombe dorée (BZH)
 * Duchesse Anne Hops (BZH)
-* Lupulus triple (BEL)
+* Guinness (IRL)
 * cidre pression (BZH)
 * Bouteilles: Brooklyn 0%, Dremwell 0%, ...
 
 ## Wednesday TTOs !
 Tap take overs by local craft brewers
+
+
+
+<img src="TTO_3B.jpg" alt="drawing" width="300"/>
+
+* 12/11/25 TTO by [3B](https://www.facebook.com/Les3BBar/).
+  * CALIFORNIA SOUL : Cold IPA (6%)
+  * WINTER TIME : Amber Ale (5%)
+  * WOODSTOCK : Saison barriquée (7%)
+  * RUBY TUESDAY : Ale Framboises Myrtilles (5,5%)
+  * INDIAN SUMMER : Pale ale (5,5%)
+
 
 <img src="TTO_nautica.png" alt="drawing" width="300"/>
 
