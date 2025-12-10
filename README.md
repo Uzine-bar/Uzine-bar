@@ -19,7 +19,7 @@
 ## Wednesday TTOs !
 Tap take overs by local craft brewers
 
-<img src="TTO_seal.jpg" alt="drawing" width="300"/>
+<img src="TTO_seal.png" alt="drawing" width="300"/>
 
 * 10/12/25 TTO by [Seal](https://www.facebook.com/Microbrasserie.seal/).
   * MOKU MANA : American Wheat (4,5%)
