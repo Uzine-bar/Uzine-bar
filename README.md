@@ -7,7 +7,7 @@
 * Louarn session IPA (BZH)
 * Louarn hoppy wheat (BZH)
 * Louarn pale ale (BZH)
-* Bouffay ambrée (BZH)
+* Nautica/Louarn ambrée tonka (BZH)
 * Nautica triple (BZH)
 * Slash Red (FR)
 * Ste Colombe dorée (BZH)
