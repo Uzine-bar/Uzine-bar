@@ -19,6 +19,14 @@
 ## Wednesday TTOs !
 Tap take overs by local craft brewers
 
+<img src="TTO_seal.jpg" alt="drawing" width="300"/>
+
+* 10/12/25 TTO by [Seal](https://www.facebook.com/Microbrasserie.seal/).
+  * MOKU MANA : American Wheat (4,5%)
+  * SANTA BARBARA : IPA (6%)
+  * GIVREON : Sour Poire Sarrasin (3,5%)
+  * PUFF PUFF : Session NEIPA (5,5%)
+  * DOUBLE IPA en Collab' avec Nautica (7%)
 
 
 <img src="TTO_3B.jpg" alt="drawing" width="300"/>
