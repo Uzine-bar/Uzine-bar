@@ -19,6 +19,19 @@
 ## Wednesday TTOs !
 Tap take overs by local craft brewers
 
+* 04/02/26 TTO by (Torr Penn](https://brasserie-torrpenn.com/). 
+ * RAINBOW : New Zealand IPA (5,8%)
+ * COLLAB avec 90 BPM : Sour (4,7%)
+ * DOUBLE NEIPA (7,3%)
+ * WHEAT ALE (5%)
+ * NEIPA au blé noir (5,5%)
+
+* 14/01/26 TTO by [Alchimistes Ivres](https://www.alchimistes-ivres.com). 
+ * ORENDIL : Hazy IPA (7,2%)
+ * GULD'HOP : Session IPA (3,4%)
+ * PÊCHER MORTEL : Pastry Sour Pêche et Poivre de Timut (4,1%)
+ * East Coast IPA (5,3%)
+
 <img src="TTO_seal.png" alt="drawing" width="300"/>
 
 * 10/12/25 TTO by [Seal](https://www.facebook.com/Microbrasserie.seal/).
