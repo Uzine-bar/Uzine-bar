@@ -20,17 +20,17 @@
 Tap take overs by local craft brewers
 
 * 04/02/26 TTO by (Torr Penn](https://brasserie-torrpenn.com/). 
- * RAINBOW : New Zealand IPA (5,8%)
- * COLLAB avec 90 BPM : Sour (4,7%)
- * DOUBLE NEIPA (7,3%)
- * WHEAT ALE (5%)
- * NEIPA au blé noir (5,5%)
+  * RAINBOW : New Zealand IPA (5,8%)
+  * COLLAB avec 90 BPM : Sour (4,7%)
+  * DOUBLE NEIPA (7,3%)
+  * WHEAT ALE (5%)
+  * NEIPA au blé noir (5,5%)
 
 * 14/01/26 TTO by [Alchimistes Ivres](https://www.alchimistes-ivres.com). 
- * ORENDIL : Hazy IPA (7,2%)
- * GULD'HOP : Session IPA (3,4%)
- * PÊCHER MORTEL : Pastry Sour Pêche et Poivre de Timut (4,1%)
- * East Coast IPA (5,3%)
+  * ORENDIL : Hazy IPA (7,2%)
+  * GULD'HOP : Session IPA (3,4%)
+  * PÊCHER MORTEL : Pastry Sour Pêche et Poivre de Timut (4,1%)
+  * East Coast IPA (5,3%)
 
 <img src="TTO_seal.png" alt="drawing" width="300"/>
 
@@ -44,8 +44,8 @@ Tap take overs by local craft brewers
 
 <img src="TTO_3B.jpg" alt="drawing" width="300"/>
 
-* 12/11/25 TTO by [3B](https://www.facebook.com/Les3BBar/).
-  * CALIFORNIA SOUL : Cold IPA (6%)
+* 1 2/11/25 TTO by [3B](https://www.facebook.com/Les3BBar/).
+   * CALIFORNIA SOUL : Cold IPA (6%)
   * WINTER TIME : Amber Ale (5%)
   * WOODSTOCK : Saison barriquée (7%)
   * RUBY TUESDAY : Ale Framboises Myrtilles (5,5%)
