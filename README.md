@@ -19,7 +19,7 @@
 ## Wednesday TTOs !
 Tap take overs by local craft brewers
 
-* 04/02/26 TTO by (Torr Penn](https://brasserie-torrpenn.com/). 
+* 04/02/26 TTO by [Torr Penn](https://brasserie-torrpenn.com/). 
   * RAINBOW : New Zealand IPA (5,8%)
   * COLLAB avec 90 BPM : Sour (4,7%)
   * DOUBLE NEIPA (7,3%)
