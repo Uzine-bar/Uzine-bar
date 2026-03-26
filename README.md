@@ -5,7 +5,7 @@
 * Louarn IPA (BZH)
 * Louarn NEIPA (BZH)
 * Louarn session IPA (BZH)
-* Louarn hoppy wheat (BZH)
+* Louarn hoppy wheat - blanche (BZH)
 * Louarn pale ale (BZH)
 * Nautica/Louarn ambrée tonka (BZH)
 * Nautica triple (BZH)
@@ -14,7 +14,9 @@
 * Duchesse Anne Hops (BZH)
 * Guinness (IRL)
 * cidre pression (BZH)
-* Bouteilles: Brooklyn 0%, Dremwell 0%, ...
+* Bouteilles: Smash 0%, Brooklyn 0%, Dremwell 0%, ...
+
++ 5 becs tournants tous les mois:
 
 ## Wednesday TTOs !
 Tap take overs by local craft brewers
