@@ -7,7 +7,6 @@
 * Louarn session IPA (BZH)
 * Louarn hoppy wheat - blanche (BZH)
 * Louarn pale ale (BZH)
-* Nautica/Louarn ambrée tonka (BZH)
 * Nautica triple (BZH)
 * Slash Red (FR)
 * Ste Colombe dorée (BZH)
@@ -16,7 +15,7 @@
 * cidre pression (BZH)
 * Bouteilles: Smash 0%, Brooklyn 0%, Dremwell 0%, ...
 
-+ 5 becs tournants tous les mois:
++ 5 becs craft tournants tous les mois:
 
 ## Wednesday TTOs !
 Tap take overs by local craft brewers
