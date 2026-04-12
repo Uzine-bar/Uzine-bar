@@ -20,7 +20,14 @@
 ## Wednesday TTOs !
 Tap take overs by local craft brewers
 
-* 18/03/26 TTO by Coque x Octa
+* 15/04/26 TTO by Brume [Insta](https://www.instagram.com/p/DW3Wo_EDBro/)
+  * VALDRADE : Neipa (6%)
+  * GNAGNAGNA : Imperial IPA (9,5%)
+  * HASTA LA VISTA : IPA 100% Vista breton (4,5%)
+  * BOIS VERMEIL : Amber Ale (6%)
+  * BRUME DES FOINS : Pale Ale (5%)
+
+* 18/03/26 TTO by Choque x Octa
   * VORTEX : Dark Sour (5%) bière collab' Octa/Choque
   * ARCUS³ : Triple IPA (10%)
   * SØLAR : Double NEIPA (7,5%)
