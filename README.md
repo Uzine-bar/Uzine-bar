@@ -21,11 +21,11 @@
 Tap take overs by local craft brewers
 
 * 20/05/26 TTO by Horla [Insta](https://www.instagram.com/microbrasseriehorla/)
-  * Saison de printemps
-  * ⁠West coast IPA
-  * Gose Ressac
-  * Sour citron gingembre
-  * Sour Cherry Bomb
+  * COLLAB AVEC KAURI : West Coast IPA (6,2 %)
+  * SAISON DE PRINTEMPS : Grisette aux baies de Sichuan (4%)
+  * RESSAC : Gose traditionnelle (4,3%)
+  * SOUR ALE : Sour Citron/Gingembre) (4,5%)
+  * CHERRY BOMB : Sour ale à la cerise (5,2%)
 
 * 15/04/26 TTO by Brume [Insta](https://www.instagram.com/p/DW3Wo_EDBro/)
   * VALDRADE : Neipa (6%)
