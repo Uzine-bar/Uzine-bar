@@ -20,6 +20,13 @@
 ## Wednesday TTOs !
 Tap take overs by local craft brewers
 
+* 20/05/26 TTO by Horla [Insta](https://www.instagram.com/microbrasseriehorla/)
+  * Saison de printemps
+  * ⁠West coast IPA
+  * Gose Ressac
+  * Sour citron gingembre
+  * Sour Cherry Bomb
+
 * 15/04/26 TTO by Brume [Insta](https://www.instagram.com/p/DW3Wo_EDBro/)
   * VALDRADE : Neipa (6%)
   * GNAGNAGNA : Imperial IPA (9,5%)
