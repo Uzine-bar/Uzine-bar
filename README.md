@@ -20,6 +20,13 @@
 ## Wednesday TTOs !
 Tap take overs by local craft brewers
 
+* 16/09/26 TTO by L'écume sauvage [insta](https://www.instagram.com/brasserie_lecume_sauvage/)
+  * 𝗙𝗔𝗖𝗘 𝗔̀ 𝗟’𝗔𝗠𝗘𝗥 : IPA (5 %)
+  * 𝗟𝗘 𝗩𝗘𝗡𝗧 𝗦𝗢𝗨𝗙𝗙𝗟𝗘 𝗦𝗨𝗥 𝗟𝗘𝗦 𝗣𝗟𝗔𝗜𝗡𝗘𝗦 : DDH Session NEIPA (3,7%)
+  * 𝗔𝗨 𝗕𝗢𝗨𝗧 𝗗𝗘 𝗟𝗔 𝗡𝗨𝗜𝗧 : Smoked Ale (7%)
+  * 𝗟’𝗔𝗠𝗢𝗨𝗥 𝗔̀ 𝗟𝗔 𝗣𝗟𝗔𝗚𝗘 : DDH NEIPA (5,4%)
+  * 𝗦𝗨𝗥 𝗧𝗔 𝗠𝗔𝗥𝗜𝗡𝗜𝗘̀𝗥𝗘 : Ambré à la galette de sarrasin (4,7%)
+
 * 20/05/26 TTO by Horla [Insta](https://www.instagram.com/microbrasseriehorla/)
   * COLLAB AVEC KAURI : West Coast IPA (6,2 %)
   * SAISON DE PRINTEMPS : Grisette aux baies de Sichuan (4%)
