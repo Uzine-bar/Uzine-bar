@@ -1,18 +1,18 @@
 # Uzine bar (in Rennes): 18 beers on tap !
 
-* Uzine pils (FR)
-* Louarn "boum boum" Double IPA (BZH)
-* Louarn "bombarde" IPA (BZH)
-* Louarn "fanfare" NEIPA (BZH)
-* Louarn "jam "session IPA (BZH)
-* Louarn "räve" hoppy wheat - blanche (BZH)
-* Louarn "hipnoz" pale ale (BZH)
-* Nautica "Titanic" triple (BZH)
-* Slash Red (FR)
-* Ste Colombe dorée (BZH)
-* Duchesse Anne "Hops" (BZH)
-* Guinness Stout (IRL)
-* Cidre pression (BZH)
+* Uzine pils, 5% (FR)
+* Louarn "boum boum" Double IPA, 7,2% (BZH)
+* Louarn "bombarde" IPA, 5,5% (BZH)
+* Louarn "fanfare" NEIPA, 6% (BZH)
+* Louarn "jam "session IPA, 5% (BZH)
+* Louarn "räve" hoppy wheat - blanche, 4,5% (BZH)
+* Louarn "hipnoz" pale ale, 5% (BZH)
+* Nautica "Titanic" triple, 8,5% (BZH)
+* Slash Red, 8% (FR)
+* Ste Colombe dorée, 5% (BZH)
+* Duchesse Anne "Hops", 6,9% (BZH)
+* Guinness Stout, 4,2% (IRL)
+* Cidre pression, 4,5% (BZH)
 * Bouteilles et cannettes: Guinness 0%, Brooklyn 0%, Dremwell 0%, ...
 
 + 5 becs craft tournants tous les mois:
